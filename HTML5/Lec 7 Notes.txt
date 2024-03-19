@@ -1,0 +1,8 @@
+Table-It is structure in which we can rearrange data in form of rows and columns.
+Cell-Its is the smallest unit of table.
+We put data into cell.
+
+table,tr,th,td,tfoot
+
+row span-To extend row space upto x rows
+col span-to exted column space upto x column

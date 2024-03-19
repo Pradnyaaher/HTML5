@@ -1,0 +1,40 @@
+*History of Internect?
+1960-ARPANET Project in which it is decides that to send data in small chunks called packets.
+1970-180-DNS(Domain Name)-In which the url converte into IP adress and henceforth www is strated.
+1990-Email,shopping,message is invent.
+2000-FaceBook and Mobile is usecase is increased.
+Today-Anything is possible.
+*ISP(Internet service provider)
+-jio,artile,bsnl,etc.
+ISP thriugh we can acess internet.
+ISP provide IP adress to machine.
+*What is Packet?
+break file into samll chunks and send it to destinatio and at destination reunion these chuncks and form a file agian.
+*Protocol?
+Set of rules(Gmail is uses SMTP(simple message transfer protocol)
+hhtp/https
+ftp
+smtp
+*Protocol Stack?
+Client wants to write mail through Gmail APP.
+
+Client Side:
+1)Application Layer-specific app such as Gmail and their Protocol SMTP.
+2)TCP-add port no. to request.
+3)IP-add destination and sorce IP address to request
+4)Hardware-uses any medium such as wired or wireless.
+         Internet
+Server Side:
+
+1)Hardware-uses any medium such as wired or wireless.
+2)IP-see the sourese  IP address of request
+3)TCP-see port no. to request.
+4)Application Layer-specific app such as Gmail and their Protocol SMTP.
+
+*Packet travel?
+When client send any data through router then it recieves by ISP then ISP check that am I known to this IP address? if yees then it send to router then router will send it destination.
+
+Example:
+Client send requested www.google.com--->DNS(convert www.google.com to IP address)---->Local ISP(it says I'm not aware about this IP adress lets send it to regional ISP)--->Regional ISP(it also says I'm not aware about this IP adress lets send it to National ISP)---->NSP (it says I'm aware about this IP adress)--->Router(check in their routing table if this IP adress is not in their routing table then it sends to their Parent router)---->Parent Router(check in their routing table if this IP adress is not in their routing table then it sends to their Parent router)--->Router(yes it is Exists)---->Destination.
+
+

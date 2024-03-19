@@ -1,0 +1,49 @@
+Tag- Its is markup entity throug which we cn provide semantics/meaning,structure,formality
+Semantics tags-<h1>-<h6>,<p><a>,<ul,<ol>,<table<>tr><td><img><form><input>
+Structure-<html><head><body><header><main><aside><footer><section><artical><nav>
+Formality-<b><i><u><s><strong><em><sup><sub><prc><code>
+
+to select multiple cursor at same time use short cut(Alt + option/select)
+List-
+1)unorder list <ul><li></li></ul>      OR ul>li*3
+2)order list  <ol><li></li></ol>      OR ol>li*3
+3)description list <dl><dt><dd></dd></dt></dl>
+
+To create nested element use '>'
+To create mutltiple nested element use '>*'
+
+<i>Lorem</i> <b>ipsum</b> dolor <strong>amet</strong> <em>consectetur</em>  <u>adipisicing</u> <s>elit</s>
+ 2 <sup>5</sup>
+ o <sub>2</sub>
+ <p>I Love Mango,<br/>and Apple</p>
+
+HTML Speed-
+emmet it is a software plugin , which we use short to write full code
+
+E.g.
+table>(tr>td*3)*3
+<p>lorem50</p>
+<p>lorem100</p>
+p>p>p>p
+Adding two different tags
+article+section
+Adding content into tag
+p{this is my text}
+
+To create id in shortcut form use #
+p#pid1
+
+To create class in shortcut form use .
+p.para
+
+To create mutiple class in shortcut form use .
+p.lion.cat.gog
+
+
+Div tag-It is a generic tag used as a container and wrapping text.Also used to make divion in element.
+.container
+
+Block Element:- In this the element will accquire full length of web page and in display on next line.
+e.g div,p
+Inline Element:- In this the element will accquire only text length  and in display on same  line.
+e.g span

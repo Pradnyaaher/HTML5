@@ -1,0 +1,45 @@
+*What is Network?
+Network is the interconection of the resorces such as Laptop,PC,Printer,etc
+We can communicate,resourse sharing is happned.
+It can be Wierd and Wireless
+There are types of Netowrk
+1)LAN(Local Area Network)
+ e.g.Home resources such as PC,Laptop,Mobile is connnected to Home router.
+2)MAN(Metropolitan Area Netowrk)
+ e.g.Interconnected City such as Delhi,Hariyana,Mumbai are connected to each other such as ABC bank branches are in these cities and they are interconnected to each other.
+3)WAN(Wide area netowrk)
+e.g.Different countries are interconnected to each other such as India ,US,Japan,etc.
+
+*What is Internet?Interconnected Netowrk)
+It is a gloab system,where networks are interconnect to each other.
+It is super set where billion of device are exist and they can connected to each other.
+WWW is the subset of Internet.
+WWW consist of all document or media with the help of internet we can acess to them.
+*IP addresss?
+In internet to identify ecah entity or resource it has a unique IP address 
+*What is Browser?
+The tool through which we can access all the doc,reourses,website,web app,etc.E.g.Google chrome,oppera,firefox,etc
+*What is Browser Engine?
+It is a backend program of the browser who can help us to rendering our request to its destination.e.g,Blink,webkit,etc.
+*Client Server Architecture?
+Client can request to Server and Server respond to client
+Types of request?
+get-through which client want or ask something from Server.(fetch)
+post-through which client gives data to server.(create)
+put-update data on server.e.g Chnage love bababr to loviely bababr.(update)
+delete-remove data from server.(delete)
+Client can be browser,laptop,PC,Mobile,App,CMD.
+Server-on which actual data and logical processing logic is exist.It can be Database Server,File Server,Application Server,Web Server,Email Server,etc.
+
+Example:-
+If user wnat www.facebook.com
+1)User will use Laptop as Client and through browser it serach for www.facebook.com
+2)Basically www.facebook.com is a Domain name and as such there is nothing exist in internet so to convert domain name into IP adress DNS(Domain Name Server) server exist.
+3)Let say DNS gives IP adress for www.facebook.com is 192.170.210.07 and then request is send to that IP adress and then FaceBook server will give response to client.
+
+
+
+
+
+
+

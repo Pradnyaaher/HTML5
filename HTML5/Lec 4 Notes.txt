@@ -1,0 +1,16 @@
+HTML: It efines the structure of the website.
+<!DOCTYPE html>
+It defines we use HTML5
+
+html tag is root tag
+Tag
+<html>-opening tag
+</html>-closing tag
+
+Element
+<html>  content  </html>
+
+<head>-in this tag we can define meta data,SEO,title,link stylesheet
+<body>-all data which is displayed on secreen
+comment<!-- -->
+shortcut for comment(Ctrl + /)

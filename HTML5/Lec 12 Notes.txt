@@ -1,0 +1,16 @@
+Audio:
+ <audio src="audiofile.mp3" controls>Audio File</audio>
+Video:
+<video src="videofile.mp4" controls height="100px" width="200px"></video>
+Youtube Video or any external document:
+Use <iframe> tag
+The following is the normal youtube link:
+https://www.youtube.com/watch?v=r4UxMW0Ohpc
+to show the youtube link in your web page use following stpes:
+step 1:
+  Remove "watch?v=" and write "embed/" over there.
+
+ <iframe src="https://www.youtube.com/embed/r4UxMW0Ohpc"></iframe>
+
+head tag:
+What ever our text is there it is not visble in head tag.It only contains SEO data like meta data/tag

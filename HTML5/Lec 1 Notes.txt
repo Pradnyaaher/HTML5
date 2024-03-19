@@ -1,0 +1,12 @@
+*What is Web?
+Web is the system in which documents and all other resources are interconnected to each other and we can acess them with the help of an Internet.
+*What is Web Development?
+It consist of two Types
+1)Wesite-It is a static in nature and minimal interaction with user e.g. Wikipedia Maharana Prtap Information,Bolg webiste.
+2)Web Application-It is dynamic in nature and has more intercation with the user e.g. LinkedIn Web app,Instagram Web app.
+*What is Web Development Full Statch?
+It consist of 3 layers.
+1)Front-end developer-UI of the Website or Web app-HTML,CSS,JavaScript,ReactJS.
+2)Back-end developer-Logic,functionality,behaviour of the website or web app-Node JS,Express JS
+3)DataBase-SQL(Mysql),NoSQL(MongoDB).
+

@@ -1,0 +1,5 @@
+Form:It is a structure to collect data which is user input 
+tags
+form,input(multiple forms of avialbale),lable(it contains "for" attribute and the value of "for" should be same to input "id" attribute)
+fieldset;-It is used to group things together
+legend:-It is used to give caption to the group element.
